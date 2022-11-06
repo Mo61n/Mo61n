@@ -6,7 +6,7 @@ learning javaScript, css and html
 
 *   🤝 I'm learning JavaScript, css and html, and I'll try to share what I'm learning with you on this page
 
-<a href="https://www.twitter.com/mo6in1" target="_top" rel="noreferrer"><img
+<a href="https://www.twitter.com/mo6in1" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/mo6in1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/mo61n" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mo61n?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

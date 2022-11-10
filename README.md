@@ -1,5 +1,4 @@
 <img src="gif/dino.gif" width="500px" left="200px" />
-<br />
 
 Mobin TH
 ===============================

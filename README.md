@@ -3,7 +3,7 @@
 Mobin TH
 ===============================
 
-learning javaScript, css and html
+learning javaScript, Python and Golang
 -----------------------------
 
 *   🤝 I'm learning JavaScript, Python, Golang and I'll try to share what I'm learning with you on this page

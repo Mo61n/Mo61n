@@ -6,7 +6,7 @@ Mobin TH
 learning javaScript, css and html
 -----------------------------
 
-*   🤝 I'm learning JavaScript, css and html, and I'll try to share what I'm learning with you on this page
+*   🤝 I'm learning JavaScript, Python, Golang and I'll try to share what I'm learning with you on this page
 
 <a href="https://www.github.com/mo61n" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
